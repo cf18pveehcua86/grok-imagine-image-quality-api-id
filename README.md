@@ -115,7 +115,6 @@ Use the [Get an API key](https://go.apimart.ai/k-2e8d2c) link — $1 minimum top
 
 This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
 <!-- /related-repos:auto -->
-
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
